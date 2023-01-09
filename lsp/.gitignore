@@ -1,0 +1,7 @@
+target/
+.idea/
+.vscode/
+src/parsers/json_schema/test_suite/
+awsdocuments_language_server
+.DS_Store
+src/filetypes/buildspec/*.schema.json
